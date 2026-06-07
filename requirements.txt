@@ -1,0 +1,19 @@
+# InfoSynthesis-CLI Requirements
+# This project is designed to be zero-dependency for core functionality
+# The following are optional enhancements
+
+# Optional: For enhanced TUI experience
+# rich>=13.0.0
+
+# Optional: For PDF export support
+# weasyprint>=60.0
+
+# Optional: For advanced text processing
+# nltk>=3.8
+
+# Development dependencies (not required for usage)
+# pytest>=7.0
+# pytest-cov>=4.0
+# black>=23.0
+# flake8>=6.0
+# mypy>=1.0
